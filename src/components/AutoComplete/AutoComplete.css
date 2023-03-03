@@ -1,0 +1,31 @@
+.main {
+    width: 300px
+}
+.input {
+    height: 26px;
+    width: 100%;
+    font-size: 20px;
+}
+
+.pokemon-list-ul {
+    font-size: 17px;
+    background-color: white;
+    color: black;
+    list-style-type: none;
+    margin-top: 0px;
+    width: 270px;
+    text-align: left;
+    position: absolute
+}
+
+.pokemon-list-ul li {
+    padding: 8px 7px;
+    cursor: pointer;
+    list-style-type: none;
+    margin-left: -39px;
+}
+
+.pokemon-list-ul li:hover {
+    background-color: rgba(137, 167, 250, 0.145);
+}
+
