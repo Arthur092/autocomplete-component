@@ -1,6 +1,6 @@
 # Autocomplete Component - fetching Pokememon API
 
-![](https://github.com/Arthur092/autocomplete-component/deel.gif)
+![](https://github.com/Arthur092/autocomplete-component/blob/main/deel.gif)
 
 ## Instructions to run
 
