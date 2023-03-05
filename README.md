@@ -1,4 +1,4 @@
-# Autocomplete Component - fetching Pokememon API
+# Autocomplete Component - fetching Pokemon API
 
 ![](https://github.com/Arthur092/autocomplete-component/blob/main/deel.gif)
 
